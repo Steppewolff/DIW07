@@ -14,8 +14,11 @@
 <!-- Sección de cabecera con barra de navegación -->
 	<header>
 		<div class="wrapp">
+			<div class="skipnav">
+				<a href="#maincontent">Ir al contenido principal</a>
+			</div>
 			<div class="logo">
-				<a href="index.html"><img src="img/fgromano.png" alt="fgromano.com"></a>
+				<a href="index.html"><img src="img/fgromano.png" alt="fgromano.com">Logo</a>
 			</div>
 			<nav>
 				<a class="nav_item" href="index.html">Inicio</a>
@@ -44,35 +47,39 @@
 			</div>
 <!-- Contenidos de la web -->
 			<article>
-				<h3>Hobbies</h3>
+				<h2 id="maincontent">Hobbies</h2>
 				<div class="animacion">
-					<div class="item_animacion"><img src="img/deportes.png" alt="deportes" width="800px" height="400px"><div class="textoImagen">DEPORTES</div></div>
-					<div class="item_animacion"><img src="img/musica.png" alt="musica" width="800px" height="400px"><div class="textoImagen">MÚSICA</div></div>
-					<div class="item_animacion"><img src="img/photo.png" alt="fotografia" width="800px" height="400px"><div class="textoImagen">FOTOGRAFÍA</div></div>
+					<div class="item_animacion"><img src="img/deportes.png" alt="foto con varios deportistas" width="800px" height="400px"><div class="textoImagen">DEPORTES</div></div>
+					<div class="item_animacion"><img src="img/musica.png" alt="pentagrama con notas musicales" width="800px" height="400px"><div class="textoImagen">MÚSICA</div></div>
+					<div class="item_animacion"><img src="img/photo.png" alt="cámara digital de fotografía" width="800px" height="400px"><div class="textoImagen">FOTOGRAFÍA</div></div>
 				</div>
 			</article>
 			<br>
 			<article>
-				<h3>Experiencia laboral</h3>
+				<h2>Experiencia laboral</h2>
 				<div class="cv">
-					<embed class="visorpdf" allowfullscreen="true" src="pdf/cvdes_FernandoGomezRomano_260220.pdf" title="CV Fernando Gomez Romano"></embed>
+					<embed class="visorpdf" allowfullscreen="true" src="pdf/cvdes_FernandoGomezRomano_260220.pdf" title="CV Fernando Gomez Romano">
+						<noembed>
+							<a href="https://www.linkedin.com/in/fegoromano/">CV de Fernando Gómez</a>
+						</noembed>
+					</embed>
 				</div>					
 			</article>
 			<br>
 			<article>
-				<h3>Fotografías</h3>
+				<h2>Fotografías</h2>
 				<div class="fotografias">
 						<div class="fotoContenido">
-							<a class="foto" href="https://picsum.photos/id/251/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/252/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/253/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/254/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/255/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/256/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/257/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/258/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/259/400/150"></a>
-							<a class="foto" href="https://picsum.photos/id/260/400/150"></a>
+							<a class="foto" href="https://picsum.photos/id/251/400/150" alt="foto paisaje con montañas">Foto paisaje con montañas</a>
+							<a class="foto" href="https://picsum.photos/id/252/400/150" alt="foto despiece aparato">Foto despiece aparato</a>
+							<a class="foto" href="https://picsum.photos/id/253/400/150" alt="foto del suelo de un bosque con hierba">Foto del suelo de un bosque con hierba</a>
+							<a class="foto" href="https://picsum.photos/id/254/400/150" alt="foto de las copas de árboles desde abajo">Foto de las copas de árboles desde abajo</a>
+							<a class="foto" href="https://picsum.photos/id/255/400/150" alt="foto camino en cesped y árboles a los lados">Foto camino en cesped y árboles a los lados</a>
+							<a class="foto" href="https://picsum.photos/id/256/400/150" alt="foto cercana picos nevados">Foto cercana picos nevados</a>
+							<a class="foto" href="https://picsum.photos/id/257/400/150" alt="foto canal de amsterdam">Foto canal de amsterdam</a>
+							<a class="foto" href="https://picsum.photos/id/258/400/150" alt="foto pájaros sobrevolando el agua">Foto pájaros sobrevolando el agua</a>
+							<a class="foto" href="https://picsum.photos/id/259/400/150" alt="foto banco delante de rascacielos">Foto banco delante de rascacielos</a>
+							<a class="foto" href="https://picsum.photos/id/260/400/150" alt="foto paisaje árboles nevados">Foto paisaje árboles nevados</a>
 						</div>
 					</div>
 				</div>								
@@ -85,9 +92,11 @@
 		</aside>			
 	</section>
 <!-- Sección de pie de página, redirige a web de desarrollador -->	
-	<footer>
-		<div class="wrapp">
-			<a href="https://www.fgromano.com"><p>fgromano.com</p></a>		</div>
-	</footer>
+<footer>
+	<div class="wrapp">
+		<a class="item_footer" href="accesibilidad.html"><p>Accesibilidad web</p></a>
+		<a href="https://www.fgromano.com"><p>fgromano.com</p></a>
+	</div>
+</footer>
 </body>
 </html>

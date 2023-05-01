@@ -1,0 +1,499 @@
+WEBVTT
+
+00:00:00.270 --> 00:00:01.270
+hola y bienvenidos un día más al diario
+
+00:00:03.030 --> 00:00:04.030
+de un programador en el vídeo de hoy tal
+
+00:00:05.370 --> 00:00:06.370
+como os prometí os traigo la segunda
+
+00:00:07.589 --> 00:00:08.589
+parte de las asignaturas de desarrollo
+
+00:00:09.510 --> 00:00:10.510
+de aplicaciones web y si todavía no has
+
+00:00:12.930 --> 00:00:13.930
+visto ese primer vídeo tienes un enlace
+
+00:00:14.730 --> 00:00:15.730
+por aquí arriba para para mirarlo y pues
+
+00:00:17.850 --> 00:00:18.850
+no perderte absolutamente nada en ese
+
+00:00:20.250 --> 00:00:21.250
+primer vídeo te hablo de las asignaturas
+
+00:00:22.110 --> 00:00:23.110
+de primero del dagua y te explico un
+
+00:00:24.300 --> 00:00:25.300
+poco por encima de lo que va cada uno
+
+00:00:26.690 --> 00:00:27.690
+así que sin más vamos con la resignación
+
+00:00:28.820 --> 00:00:29.820
+al segundo que son básicamente seis la
+
+00:00:33.590 --> 00:00:34.590
+primera asignatura es inglés en esta
+
+00:00:36.170 --> 00:00:37.170
+estructura vas a aprender básicamente un
+
+00:00:37.910 --> 00:00:38.910
+inglés un poquito más étnico un poquito
+
+00:00:40.010 --> 00:00:41.010
+más enfocado pues en la programación en
+
+00:00:43.220 --> 00:00:44.220
+mi caso al hacer la fp a distancia lo
+
+00:00:46.460 --> 00:00:47.460
+que hacíamos pues era seguir el libro
+
+00:00:49.680 --> 00:00:50.680
+e ir haciendo pues cada una de las
+
+00:00:51.600 --> 00:00:52.600
+actividades que nos encontrábamos y
+
+00:00:54.360 --> 00:00:55.360
+también íbamos apuntando a parte todo el
+
+00:00:57.630 --> 00:00:58.630
+vocabulario en una libreta y al final de
+
+00:01:00.690 --> 00:01:01.690
+cada una de las evaluaciones subíamos
+
+00:01:02.670 --> 00:01:03.670
+estas tareas del aula virtual y el
+
+00:01:05.430 --> 00:01:06.430
+profesor pues se encargaba de corregir y
+
+00:01:07.740 --> 00:01:08.740
+puntuar estas actividades
+
+00:01:10.280 --> 00:01:11.280
+no me parece para una asignatura difícil
+
+00:01:13.549 --> 00:01:14.549
+de hecho cualquiera con un poquito de
+
+00:01:15.560 --> 00:01:16.560
+esfuerzo será presa carl sin ningún
+
+00:01:18.170 --> 00:01:19.170
+problema
+
+00:01:19.510 --> 00:01:20.510
+la segunda asignatura que os vais a
+
+00:01:21.490 --> 00:01:22.490
+encontrar es empresa e iniciativa
+
+00:01:23.740 --> 00:01:24.740
+emprendedora aquí aprenderéis
+
+00:01:26.260 --> 00:01:27.260
+básicamente pues todo lo relacionado con
+
+00:01:28.660 --> 00:01:29.660
+la creación de una empresa
+
+00:01:32.050 --> 00:01:33.050
+es una de las asignaturas más teóricas
+
+00:01:35.380 --> 00:01:36.380
+que hay en el módulo y por lo tanto es
+
+00:01:37.900 --> 00:01:38.900
+también una de las que más hay que
+
+00:01:40.510 --> 00:01:41.510
+estudiar para probar estas dos primeras
+
+00:01:43.150 --> 00:01:44.150
+asignaturas que os he dicho son comunes
+
+00:01:45.430 --> 00:01:46.430
+a todos los fps que hay en españa y por
+
+00:01:48.550 --> 00:01:49.550
+lo tanto hagáis la dpp que queráis os
+
+00:01:50.620 --> 00:01:51.620
+vais a topar con ellas también es cierto
+
+00:01:53.620 --> 00:01:54.620
+que si no es el primer módulo que hacéis
+
+00:01:56.530 --> 00:01:57.530
+os podéis convalidar estas dos
+
+00:01:58.750 --> 00:01:59.750
+asignaturas aunque con la nota de 5
+
+00:02:03.440 --> 00:02:04.440
+vamos ahora con la tercera asignatura y
+
+00:02:06.650 --> 00:02:07.650
+ésta ya es específica del segundo año de
+
+00:02:09.350 --> 00:02:10.350
+edad de la asignatura se llama
+
+00:02:11.570 --> 00:02:12.570
+despliegue de aplicaciones web y pues lo
+
+00:02:14.360 --> 00:02:15.360
+que se aprende aquí básicamente después
+
+00:02:17.000 --> 00:02:18.000
+los diferentes tipos de protocolos que
+
+00:02:19.430 --> 00:02:20.430
+hay como por ejemplo el protocolo ftp el
+
+00:02:22.400 --> 00:02:23.400
+protocolo http también se toca un poco
+
+00:02:25.430 --> 00:02:26.430
+de configuración de servidores web y por
+
+00:02:29.210 --> 00:02:30.210
+último en mi caso lo que hemos visto ha
+
+00:02:31.220 --> 00:02:32.220
+sido el cms wordpress que básicamente
+
+00:02:34.310 --> 00:02:35.310
+sirve para crear páginas web de una
+
+00:02:37.100 --> 00:02:38.100
+forma más rápida y sencilla
+
+00:02:40.260 --> 00:02:41.260
+entramos ahora en el que yo considero el
+
+00:02:43.019 --> 00:02:44.019
+top 3 de las asignaturas de segundo la
+
+00:02:46.170 --> 00:02:47.170
+primera de ellas el diseño de interfaces
+
+00:02:48.120 --> 00:02:49.120
+pues considero que esta asignatura es
+
+00:02:50.549 --> 00:02:51.549
+bastante completa ya que se ve una gran
+
+00:02:54.000 --> 00:02:55.000
+variedad de cosas
+
+00:02:56.860 --> 00:02:57.860
+en mi caso hemos empezado pues haciendo
+
+00:02:59.260 --> 00:03:00.260
+un pequeño repaso sobre html css después
+
+00:03:04.150 --> 00:03:05.150
+hemos visto un poco de diseño web todo
+
+00:03:07.180 --> 00:03:08.180
+lo que es creación de logos y colores
+
+00:03:10.780 --> 00:03:11.780
+este tipo de cosas después hemos visto
+
+00:03:14.110 --> 00:03:15.110
+un tema súper súper interesante que a mí
+
+00:03:16.900 --> 00:03:17.900
+la verdad es que me ha encantado y no
+
+00:03:18.640 --> 00:03:19.640
+conocía y es el tema de deseo que lo que
+
+00:03:23.140 --> 00:03:24.140
+trata básicamente pues es de salir
+
+00:03:25.360 --> 00:03:26.360
+cuanto más arriba posible en los
+
+00:03:27.910 --> 00:03:28.910
+buscadores como google youtube vital
+
+00:03:30.810 --> 00:03:31.810
+después hemos visto también un framework
+
+00:03:33.790 --> 00:03:34.790
+de css que se llama mussap y este primer
+
+00:03:37.900 --> 00:03:38.900
+bloque hace básicamente es crear páginas
+
+00:03:41.020 --> 00:03:42.020
+web response
+
+00:03:42.190 --> 00:03:43.190
+es decir páginas web que se adaptan a
+
+00:03:44.350 --> 00:03:45.350
+cualquier tamaño de pantalla como por
+
+00:03:47.110 --> 00:03:48.110
+ejemplo móviles ordenadores sobremesa
+
+00:03:50.500 --> 00:03:51.500
+también tablets etc todo ese tipo de
+
+00:03:53.680 --> 00:03:54.680
+cosas y por último también hemos visto
+
+00:03:55.810 --> 00:03:56.810
+pues cómo manejar un editor de fotos
+
+00:03:58.570 --> 00:03:59.570
+temas de accesibilidad usabilidad cómo
+
+00:04:02.380 --> 00:04:03.380
+se ha dicho es es una asignatura muy muy
+
+00:04:04.840 --> 00:04:05.840
+completa y por eso está en el top 3 la
+
+00:04:08.440 --> 00:04:09.440
+siguiente asignatura con la que te vas a
+
+00:04:09.910 --> 00:04:10.910
+encontrar es desarrollo web en entornos
+
+00:04:12.190 --> 00:04:13.190
+servidor pero antes de explicarle lo que
+
+00:04:14.680 --> 00:04:15.680
+va a esta asignatura te voy a pedir que
+
+00:04:16.840 --> 00:04:17.840
+crees al like que te suscribas si no
+
+00:04:19.359 --> 00:04:20.359
+estás y que por supuesto compartas con
+
+00:04:21.669 --> 00:04:22.669
+todos tus amigos para que esto pues
+
+00:04:23.260 --> 00:04:24.260
+llegue cuanta más gente mejor ahora
+
+00:04:26.590 --> 00:04:27.590
+sigamos con la explicación y lo que te
+
+00:04:29.380 --> 00:04:30.380
+vas a encontrar en esta asignatura es
+
+00:04:30.820 --> 00:04:31.820
+básicamente el lenguaje de bakker
+
+00:04:33.490 --> 00:04:34.490
+y lo vas a aprender pues desde cero todo
+
+00:04:36.039 --> 00:04:37.039
+lo mismo en estructural de control todo
+
+00:04:38.110 --> 00:04:39.110
+lo que es una función
+
+00:04:40.740 --> 00:04:41.740
+también vas a trabajar por supuesto con
+
+00:04:43.319 --> 00:04:44.319
+las bases de datos todo lo que son
+
+00:04:45.660 --> 00:04:46.660
+insertar registros sacar registros
+
+00:04:48.680 --> 00:04:49.680
+actualizarlos borrarlos ese tipo de
+
+00:04:51.360 --> 00:04:52.360
+cosas pues también lo harás con php y
+
+00:04:55.080 --> 00:04:56.080
+para eso utilizarás el lenguaje sql
+
+00:04:59.490 --> 00:05:00.490
+después también vas a ver programación
+
+00:05:02.759 --> 00:05:03.759
+orientada a objetos y en mi caso por
+
+00:05:05.490 --> 00:05:06.490
+último hemos hecho un pequeño proyecto
+
+00:05:08.910 --> 00:05:09.910
+final donde pues en mi caso he creado
+
+00:05:12.120 --> 00:05:13.120
+una pequeña tienda online
+
+00:05:15.910 --> 00:05:16.910
+y pues allí la verdad es que es donde
+
+00:05:18.850 --> 00:05:19.850
+más aprendes porque trabajas con
+
+00:05:21.430 --> 00:05:22.430
+secciones y bueno en realidad pues en
+
+00:05:23.890 --> 00:05:24.890
+práctica todo lo que has aprendido
+
+00:05:25.120 --> 00:05:26.120
+durante el curso
+
+00:05:27.090 --> 00:05:28.090
+forma muy buena de mostrar tus
+
+00:05:30.120 --> 00:05:31.120
+conocimientos y sobre todo de aprende
+
+00:05:33.849 --> 00:05:34.849
+y llegamos a la última asignatura que os
+
+00:05:37.209 --> 00:05:38.209
+vais a encontrar en este segundo curso
+
+00:05:39.189 --> 00:05:40.189
+de edad que es desarrollo web el entorno
+
+00:05:41.529 --> 00:05:42.529
+cliente
+
+00:05:42.670 --> 00:05:43.670
+aquí pues básicamente aprenderéis
+
+00:05:44.680 --> 00:05:45.680
+javascript desde cero y al igual que en
+
+00:05:47.290 --> 00:05:48.290
+php vais a aprender todo son funciones
+
+00:05:49.840 --> 00:05:50.840
+vais ascender
+
+00:05:51.860 --> 00:05:52.860
+estructuras de control por supuesto
+
+00:05:54.740 --> 00:05:55.740
+aprenderéis también a trabajar con el
+
+00:05:56.240 --> 00:05:57.240
+don aprenderéis también a manejar
+
+00:05:59.240 --> 00:06:00.240
+eventos y por supuesto también a validar
+
+00:06:03.229 --> 00:06:04.229
+pues lo que son los formularios en el
+
+00:06:05.689 --> 00:06:06.689
+lado del cliente
+
+00:06:08.320 --> 00:06:09.320
+después
+
+00:06:10.190 --> 00:06:11.190
+se ve también una tecnología que es
+
+00:06:12.800 --> 00:06:13.800
+bastante bastante interesante que se
+
+00:06:14.600 --> 00:06:15.600
+llama ajax que lo que permite es hacer
+
+00:06:17.120 --> 00:06:18.120
+predicciones sin programas a un servidor
+
+00:06:19.630 --> 00:06:20.630
+no os preocupéis si todo esto suena a
+
+00:06:22.490 --> 00:06:23.490
+chino ya que si os decidís hacer el
+
+00:06:24.800 --> 00:06:25.800
+ciclo formativo de dawn lo veréis
+
+00:06:26.660 --> 00:06:27.660
+bastante en profundidad no está nada
+
+00:06:28.550 --> 00:06:29.550
+difícil
+
+00:06:30.270 --> 00:06:31.270
+y básicamente es eso lo que lo que se ve
+
+00:06:34.080 --> 00:06:35.080
+y por cierto también se de jake peavy
+
+00:06:36.840 --> 00:06:37.840
+que es una librería de javascript y
+
+00:06:40.520 --> 00:06:41.520
+también hemos dado una pequeña pincelada
+
+00:06:43.290 --> 00:06:44.290
+a ángulo
+
+00:06:45.190 --> 00:06:46.190
+que pues también son un framework de
+
+00:06:48.460 --> 00:06:49.460
+havas
+
+00:06:50.900 --> 00:06:51.900
+aquí el vídeo de hoy espero que os haya
+
+00:06:52.699 --> 00:06:53.699
+gustado y si tenéis cualquier duda
+
+00:06:55.009 --> 00:06:56.009
+dejarlo por aquí abajo en los
+
+00:06:56.360 --> 00:06:57.360
+comentarios y yo os contestaré todo lo
+
+00:06:58.490 --> 00:06:59.490
+rápido que pueda cualquier duda
+
+00:07:00.020 --> 00:07:01.020
+cualquier tipo de duda la dejáis en los
+
+00:07:01.940 --> 00:07:02.940
+comentarios y yo os contesto
+
+00:07:04.940 --> 00:07:05.940
+y por cierto si todavía no te has
+
+00:07:06.560 --> 00:07:07.560
+suscrito dale click a este botón para
+
+00:07:08.900 --> 00:07:09.900
+suscribirte y después mira que este
+
+00:07:11.120 --> 00:07:12.120
+vídeo super super interesante bueno sin
+
+00:07:14.240 --> 00:07:15.240
+más me despido de vosotros hasta el
+
+00:07:16.280 --> 00:07:17.280
+próximo vídeo

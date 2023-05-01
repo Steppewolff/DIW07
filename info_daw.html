@@ -14,8 +14,11 @@
 	<!-- Sección de cabecera con barra de navegación -->
 	<header>
 		<div class="wrapp">
+			<div class="skipnav">
+				<a href="#maincontent">Ir al contenido principal</a>
+			</div>
 			<div class="logo" id="top">
-				<a href="index.html"><img src="img/fgromano.png" alt="fgromano.com"></a>
+				<a href="index.html"><img src="img/fgromano.png" alt="fgromano.com">Logo</a>
 			</div>
 			<nav>
 				<a class="nav_item" href="index.html">Inicio</a>
@@ -40,12 +43,12 @@
 			<div class="mensaje">
 				<h1>Información del CS Diseño de Aplicaciones Web y Multiplataforma que curso</h1>
 			</div>
-			<div class="articulos">
+			<div class="articulos" id="maincontent">
 <!-- Contenidos de la web -->					
 				<article>
-					<h3 id="modulos_daw">
+					<h2 id="modulos_daw">
 						Módulos DAW
-					</h3>
+					</h2>
 <!-- Enlaces a asignaturas DAW -->					
 					<p>
 						<ul class="modulos">
@@ -57,11 +60,10 @@
 						</ul>
 					</p>
 				</article>
-				<br>
 				<article>
-					<h3 id="modulos_dam">
+					<h2 id="modulos_dam">
 						Módulos DAM
-					</h3>
+					</h2>
 <!-- Enlaces a asignaturas DAM -->										
 					<p>
 						<ul class="modulos">
@@ -69,106 +71,123 @@
 							<li><a href="#pmdm">PMDM</a></li>							
 						</ul>
 					</p>
-				</article>
-				<br>				
+				</article>		
 				<article id="contenido_modulos">
-					<h3>
+					<h2>
 						Contenido módulos
-					</h3>
-<!-- Contenido de los módulos DAW y DAM -->										
-					<div class="modulos">
-						<h5 id="daw">DAW</h5>							
-						<p>El módulo "Despliegue de Aplicaciones Web" (DAW) trata –básicamente– de enseñar cómo desplegar, mantener y actualizar aplicaciones web en servidores.
-							<p>Contenidos generales del módulo - Temario
+					</h2>
+					<video width="400" height="240" controls>
+						<source src="img/video_FP_DAW.mp4" type="video/mp4">
+						<track src="img/video_FP_DAW.vtt" kind="subtitles" srclang="es" label="Español">
+					</video>
+<!-- Contenido de los módulos DAW y DAM -->	
+					<ul>									
+						<li><div class="modulos">
+							<h3 id="daw">DAW</h3>							
+							<p>El módulo "Despliegue de Aplicaciones Web" (DAW) trata –básicamente– de enseñar cómo desplegar, mantener y actualizar aplicaciones web en servidores.
+								<p>Contenidos generales del módulo - Temario</p>
+									<ul class="asignaturas">
+										<li>Introducción a las arquitecturas web.</li>
+										<li>Administración de servidores web, aplicaciones y transferencia de archivos.</li>
+										<li>Servicios de red.</li>
+										<li>Sistemas de control de versiones.</li>
+										<li>Documentación.</li>
+									</ul>
+								</p>
+						</div></li>
+						<li><div class="modulos">
+							<h3 id="diw">DIW</h3>							
+							<p>El módulo "Diseño de Interfaces Web" (DIW) está enfocado –en gran medida– a aprender a integrar contenidos multimedia en aplicaciones web.
+								<p>Contenidos generales del módulo - Temario</p>
+									<ul class="asignaturas">
+										<li>Interfaces gráficas.</li>
+										<li>Hojas de estilo.</li>
+										<li>Contenido multimedia e interactivo.</li>
+										<li>Accesibilidad web.</li>
+										<li>Usabilidad web.</li>
+									</ul>
+							</p>
+						</div></li>
+						<li><div class="modulos">											
+							<h3 id="dwes">DWES</h3>							
+							<p>El módulo "Desarrollo Web en Entorno Servidor" (DWES) se fundamenta en enseñar al alumno a crear –desarrollar– aplicaciones y servicios que se ejecuten por servidores en entornos web.
+							<p>Contenidos generales del módulo - Temario</p>
 								<ul class="asignaturas">
-									<li>Introducción a las arquitecturas web.</li>
-									<li>Administración de servidores web, aplicaciones y transferencia de archivos.</li>
-									<li>Servicios de red.</li>
-									<li>Sistemas de control de versiones.</li>
-									<li>Documentación.</li>
+									<li>Herramientas y lenguajes de programación.</li>
+									<li>Uso de objetos.</li>
+									<li>Funciones.</li>
+									<li>Arrays.</li>
+									<li>Eventos y formularios.</li>
+									<li>Uso del modelo de objetos del documento (DOM).</li>
+									<li>Mecanismos de comunicación asíncrona.</li>							
 								</ul>
-							</p>													
-						<h5 id="diw">DIW</h5>							
-						<p>El módulo "Diseño de Interfaces Web" (DIW) está enfocado –en gran medida– a aprender a integrar contenidos multimedia en aplicaciones web.
-							<p>Contenidos generales del módulo - Temario
-								<ul class="asignaturas">
-									<li>Interfaces gráficas.</li>
-									<li>Hojas de estilo.</li>
-									<li>Contenido multimedia e interactivo.</li>
-									<li>Accesibilidad web.</li>
-									<li>Usabilidad web.</li>
-								</ul>
-						</p>											
-						<h5 id="dwes">DWES</h5>							
-						<p>El módulo "Desarrollo Web en Entorno Servidor" (DWES) se fundamenta en enseñar al alumno a crear –desarrollar– aplicaciones y servicios que se ejecuten por servidores en entornos web.
-						<p>Contenidos generales del módulo - Temario
-							<ul class="asignaturas">
-								<li>Herramientas y lenguajes de programación.</li>
-								<li>Uso de objetos.</li>
-								<li>Funciones.</li>
-								<li>Arrays.</li>
-								<li>Eventos y formularios.</li>
-								<li>Uso del modelo de objetos del documento (DOM).</li>
-								<li>Mecanismos de comunicación asíncrona.</li>							
-							</ul>
-						</p>	
-						<h5 id="dwec">DWEC</h5>							
-						<p>El módulo "Desarrollo Web en Entorno Cliente" (DWEC) tiene como fin principal que el alumno sea capaz de implementar aplicaciones que se ejecuten en navegadores web.
-						<p >Contenidos generales del módulo - Temario</p>
-							<ul class="asignaturas">
-								<li>Herramientas de programacion y lenguajes en entorno servidor.</li>
-								<li>Inserción de código (ASP, JSP, PHP...) en páginas web.</li>
-								<li>Lenguajes de marcas con código embebido.</li>
-								<li>Generación dinámica de páginas web.</li>
-								<li>Acceso a datos.</li>
-								<li>Implementación de servicios web.</li>
-								<li>Programación de aplicaciones web híbridas.</li>							
-							</ul>
-						</p>
-						<h5 id="eie">EIE</h5>							
-						<p>El módulo "Empresa e Iniciativa Emprendedora" (EIE) pretende formar al alumno para que desarrolle su propia iniciativa profesionalmente, ya sea trabajando por cuenta ajena o como autónomo.
+							</p>
+						</div></li>
+						<li><div class="modulos">	
+							<h3 id="dwec">DWEC</h3>							
+							<p>El módulo "Desarrollo Web en Entorno Cliente" (DWEC) tiene como fin principal que el alumno sea capaz de implementar aplicaciones que se ejecuten en navegadores web.
 							<p >Contenidos generales del módulo - Temario</p>
 								<ul class="asignaturas">
-									<li>Iniciativa y creatividad emprendedora.</li>
-									<li>Análisis de la Pequeña Y Mediana Empresa (PYME).</li>
-									<li>Planificación para la creación de una empresa.</li>
-									<li>Introducción a la contabilidad.</li>
-									<li>Gestión administrativa de las empresas.</li>						
+									<li>Herramientas de programacion y lenguajes en entorno servidor.</li>
+									<li>Inserción de código (ASP, JSP, PHP...) en páginas web.</li>
+									<li>Lenguajes de marcas con código embebido.</li>
+									<li>Generación dinámica de páginas web.</li>
+									<li>Acceso a datos.</li>
+									<li>Implementación de servicios web.</li>
+									<li>Programación de aplicaciones web híbridas.</li>							
 								</ul>
-						</p>							
-						<h5 id="di">DI</h5>							
-						<p>El módulo "Desarrollo de Interfaces" (DI) tiene el propósito de enseñar a desarrollar interfaces de usuario, crear informes, diseñar elementos de ayuda y evaluar el funcionamiento de aplicaciones.
-							<p >Contenidos generales del módulo - Temario</p>
-								<ul class="asignaturas">
-									<li>Diseño de interfaces de usuario.</li>
-									<li>Creación de interfaces basados en documentos XML.</li>
-									<li>Componentes visuales.</li>
-									<li>Introducción a la usabilidad.</li>
-									<li>Elaboración de informes.</li>						
-									<li>Creación de documentación de aplicaciones.</li>						
-									<li>Realización de diferentes pruebas.</li>						
-								</ul>
-						</p>
-						<h5 id="pmdm">PMDM</h5>							
-						<p>El módulo "Programación Multimedia y Dispositivos Móviles" (PMDM) está enfocado –básicamente– al desarrollo de software (apps multimedia y juegos) para los dispositivos móviles.
-							<p >Contenidos generales del módulo - Temario</p>
-								<ul class="asignaturas">
-									<li>Análisis de tecnologías para el desarrollo de aplicaciones en diferentes dispositivos móviles.</li>
-									<li>Programación de aplicaciones multiplataforma.</li>
-									<li>Librerías multimedia.</li>
-									<li>Uso de motores de juegos.</li>
-									<li>Programación de juegos 2D y 3D.</li>	
-								</ul>
-						</p>			
-					</div>
-				</article>
-				<br>				
+							</p>
+						</div></li>
+						<li><div class="modulos">
+							<h3 id="eie">EIE</h3>							
+							<p>El módulo "Empresa e Iniciativa Emprendedora" (EIE) pretende formar al alumno para que desarrolle su propia iniciativa profesionalmente, ya sea trabajando por cuenta ajena o como autónomo.
+								<p >Contenidos generales del módulo - Temario</p>
+									<ul class="asignaturas">
+										<li>Iniciativa y creatividad emprendedora.</li>
+										<li>Análisis de la Pequeña Y Mediana Empresa (PYME).</li>
+										<li>Planificación para la creación de una empresa.</li>
+										<li>Introducción a la contabilidad.</li>
+										<li>Gestión administrativa de las empresas.</li>						
+									</ul>
+							</p>
+						</div></li>
+						<li><div class="modulos">							
+							<h3 id="di">DI</h3>							
+							<p>El módulo "Desarrollo de Interfaces" (DI) tiene el propósito de enseñar a desarrollar interfaces de usuario, crear informes, diseñar elementos de ayuda y evaluar el funcionamiento de aplicaciones.
+								<p >Contenidos generales del módulo - Temario</p>
+									<ul class="asignaturas">
+										<li>Diseño de interfaces de usuario.</li>
+										<li>Creación de interfaces basados en documentos XML.</li>
+										<li>Componentes visuales.</li>
+										<li>Introducción a la usabilidad.</li>
+										<li>Elaboración de informes.</li>						
+										<li>Creación de documentación de aplicaciones.</li>						
+										<li>Realización de diferentes pruebas.</li>						
+									</ul>
+							</p>
+						</div></li>
+						<li><div class="modulos">
+							<h3 id="pmdm">PMDM</h3>							
+							<p>El módulo "Programación Multimedia y Dispositivos Móviles" (PMDM) está enfocado –básicamente– al desarrollo de software (apps multimedia y juegos) para los dispositivos móviles.
+								<p >Contenidos generales del módulo - Temario</p>
+									<ul class="asignaturas">
+										<li>Análisis de tecnologías para el desarrollo de aplicaciones en diferentes dispositivos móviles.</li>
+										<li>Programación de aplicaciones multiplataforma.</li>
+										<li>Librerías multimedia.</li>
+										<li>Uso de motores de juegos.</li>
+										<li>Programación de juegos 2D y 3D.</li>	
+									</ul>
+							</p>			
+						</div></li>
+					</ul>
+				</article>		
 				<article>
-					<h3 id="horarios">
+					<h2 id="horariosclase">
 						Horarios de clase
-					</h3>
+					</h2>
 <!-- Tabla con horarios de clase -->										
 					<table>
+						<caption>Horarios de clase DAW</caption>
 						<thead>
 							<tr>
 								<th></th>
@@ -192,14 +211,14 @@
 							<tr><td class="hora">16:00h</td><td class="DAM2 PMDM">PMDM</td><td class="DAW2 DWES">DWES</td><td class="DAW2 EIE">EIE</td><td>-</td><td class="DAW2 DIW">DIW</td><td>-</td><td>-</td></tr>
 						</tbody>
 					</table>							
-				</article>
-				<br>				
+				</article>			
 				<article>
-					<h3 id="horarios">
+					<h2 id="horariostutoria">
 						Horarios de tutorías
-					</h3>
+					</h2>
 <!-- Tabla con horarios de tutorias -->															
 					<table>
+						<caption>Horarios tutoría DAW</caption>
 						<thead>
 							<tr>
 								<th></th>
@@ -235,10 +254,11 @@
 		</aside>		
 	</section>
 <!-- Sección de pie de página, redirige a web de desarrollador -->	
-	<footer>
-		<div class="wrapp">
-			<a href="https://www.fgromano.com"><p>fgromano.com</p></a>
-		</div>
-	</footer>
+<footer>
+	<div class="wrapp">
+		<a class="item_footer" href="accesibilidad.html"><p>Accesibilidad web</p></a>
+		<a href="https://www.fgromano.com"><p>fgromano.com</p></a>
+	</div>
+</footer>
 </body>
 </html>

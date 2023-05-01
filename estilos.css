@@ -23,17 +23,34 @@ a {
 	color:#F24C27;
 }
 
+/* Clase para saltar directamente al contenido principal*/
+.skipnav { 
+	text-align: left; 
+}
+.skipnav a {
+	position: relative;
+	overflow: visible;
+}
+.skipnav a:focus, .skipnav a:hover {
+	border: #F24C27;
+	border-style: solid;
+	border-width: 2px;
+}
+
 /* Aquí van contenidos todos los bloques con información que cambia de una web a otra */
 .wrapp {
 	max-width: 80%;
 	height: 100%;
 	margin: auto;
 	overflow: auto;
-	position: auto;
 }
 
 .wrapp .logo img{
 	width: 100px;	
+}
+
+.wrapp .item_footer {
+	color: #f2f2f2;
 }
 
 header {
@@ -42,6 +59,11 @@ header {
 	padding:5px 0;
 	background: #fff;
 	overflow: hidden;
+}
+
+.parrafo::after{
+	content: '\A';
+	white-space: pre;
 }
 
 .logo {
@@ -265,7 +287,7 @@ aside ul li a:hover {
 	list-style-type: none;
 }
 
-.modulos > h5{
+.modulos > h3{
 	background-color: #f24c2776;
 }
 
